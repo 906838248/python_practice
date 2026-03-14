@@ -4,6 +4,8 @@
 
 ## 项目简介
 
+项目来自：[【2024最新】102个Python实战项目，练完即可就业，从入门到进阶，基础到框架，你想要的全都有，建议码住！](https://www.bilibili.com/video/BV19m411d73i?vd_source=cf62ed926c6e9c6416f70d5cc6bc4e72)
+
 本子项目是一个简单的网络爬虫，用于从指定网站爬取小说章节内容。使用requests库发送HTTP请求，lxml库解析HTML内容。
 
 
