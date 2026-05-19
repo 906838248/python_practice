@@ -16,6 +16,8 @@
 
 - **3.analog_input**：一个基于tkinter、pyautogui和keyboard库的模拟键盘输入工具，通过快捷键将文本内容逐字输入到目标窗口中，解决某些场景下禁止粘贴的问题。
 
+- **4.login**：一个基于pysimplegui库的登录界面，用于用户登录和注册账号。
+
 
 
 ## 免责声明
